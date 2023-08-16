@@ -8,7 +8,7 @@
 const nuevoString = "hola";
 
 // Crea una variable de tipo number.
-const nuevoNumero = l;
+const nuevoNumero = 1;
 
 // Crea una variable de tipo boolean.
 const nuevoBoolean = false;
